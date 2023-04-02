@@ -1,14 +1,8 @@
---------------
-
 ## **Problem Statement**
----------------------------
-
 The problem on hand is to predict the housing prices of a town or a suburb based on the features of the locality provided to us. In the process, I need to **identify the most important features** in the dataset, and need to employ techniques of data preprocessing and build a **linear regression model that predicts the prices**. I will then compare the performance of the linear regression model to a **Decision Tree Regressor** and a **Random Forest Regressor**, and then give my recommendations for further analysis.
 
-----------------------------
-## **Data Information**
----------------------------
 
+## **Data Information**
 Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. Detailed attribute information can be found below -
 
 Attribute Information (in order):
